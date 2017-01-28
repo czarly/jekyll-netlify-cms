@@ -1,3 +1,9 @@
+development:
+  backend:
+    name: github-api
+    repo: czarly/jekyll-netlify-cms
+    branch: master
+    
 production:
   backend:
     name: github-api
